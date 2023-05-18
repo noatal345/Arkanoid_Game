@@ -1,10 +1,11 @@
 ## Java OOP Project - Arkanoid Game
 
+
 This is a Java OOP project that implements the classic Arkanoid game.  
 The game involves controlling a paddle to bounce a ball and destroy bricks.
 
 
-This README file provides instructions on how to install and play the game.
+
 
 **Installation**
 
